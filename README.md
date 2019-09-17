@@ -1,2 +1,3 @@
 # greatest_story_ever_told
-blah
+
+In 1983, there was a
