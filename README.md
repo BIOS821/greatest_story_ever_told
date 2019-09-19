@@ -1,3 +1,3 @@
 # greatest_story_ever_told
-blah
-sss
+In 1983, there was a tale
+a test
